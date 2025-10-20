@@ -61,7 +61,7 @@ Sou um desenvolvedor apaixonado por tecnologia, especializado em **desenvolvimen
 
 ## 💡 Projetos em Destaque
 
-### 🔹 [organizador json]](https://github.com/wendelzk/organizador_jason)
+### 🔹 [organizador json](https://github.com/wendelzk/organizador_jason)
 python and bash.sh
 
 ### 🔹 [Nome do Projeto 2](link-do-repositorio)

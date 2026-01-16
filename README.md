@@ -64,11 +64,11 @@ Sou um desenvolvedor apaixonado por tecnologia, especializado em **desenvolvimen
 ### 🔹 [organizador json](https://github.com/wendelzk/organizador_jason)
 python and bash.sh
 
-### 🔹 [Nome do Projeto 2](link-do-repositorio)
-Descrição breve do projeto e tecnologias utilizadas.
+### 🔹 [Calculadora](https://github.com/wendelzk/calculadora-novo)
+Calculadora interativa desenvolvida com React e Vite. Interface moderna e responsiva com funcionalidades completas de cálculos básicos.
 
-### 🔹 [Nome do Projeto 3](link-do-repositorio)
-Descrição breve do projeto e tecnologias utilizadas.
+### 🔹 [Projeto Ilha](https://github.com/wendelzk/projeto)
+Site e aplicação web com design intuitivo. Desenvolvido com Vite, React e JavaScript para proporcionar uma experiência de usuário otimizada.
 
 ---
 
